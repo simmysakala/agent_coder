@@ -2,7 +2,7 @@
 # Simple Calculator with Modulus and operation which are funnctional
 
 
-print("Welcome to the Calculator!")
+print("Welcome to the Mulungushi University Calculator!")
 print("You can use +, -, *, /, %")
 
 try:
