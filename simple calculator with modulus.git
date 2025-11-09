@@ -1,4 +1,6 @@
-git# Simple Calculator with Modulus
+
+# Simple Calculator with Modulus and operation 
+
 
 print("Welcome to the Calculator!")
 print("You can use +, -, *, /, %")
