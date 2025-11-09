@@ -1,7 +1,7 @@
 
 git# Simple Calculator with Modulus
 
-print("Welcome to the Calculator!")
+print("Welcome to the Mulungushi  University Simple Calculator!")
 print("You can use +, -, *, /, %")
 
 try:
