@@ -1,5 +1,5 @@
 
-git# Simple Calculator with Modulus made by a python
+git# Simple Calculator with Modulus made by python
 
 print("Welcome to the Calculator!")
 print("You can use +, -, *, /, %")
