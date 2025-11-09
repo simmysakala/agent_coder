@@ -1,5 +1,5 @@
 
-git# Simple Calculator with Modulus using vs code
+git# Simple Calculator with Modulus
 
 print("Welcome to the Calculator!")
 print("You can use +, -, *, /, %")
