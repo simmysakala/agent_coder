@@ -27,6 +27,6 @@ try:
             print("Result =", first % second)
     else:
         print("Error: Unknown operator")
-
+#improved error handling message for non_numeri input 
 except ValueError:
-    print("Error: Please enter valid numbers")
+    print("X Error: Please enter valid numericalvalue only!")
