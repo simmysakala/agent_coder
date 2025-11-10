@@ -1,7 +1,7 @@
-
-git# Simple Calculator with Modulus
-
+# Enhanced simple calculator with modulus
+ 
 print("Welcome to the Mulungushi  University Simple Calculator!")
+print("operaters")
 print("You can use +, -, *, /, %")
 
 try:
