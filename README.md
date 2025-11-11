@@ -20,7 +20,7 @@ try:
             print("Error: Cannot divide by zero")
         else:
             print("Result =", first / second)
-    elif op == "%":
+    #improve modulus zero check with an explanation.  
         if second == 0:
             print("Error: Cannot divide by zero (modulus)")
         else:
