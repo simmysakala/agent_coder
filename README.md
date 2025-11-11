@@ -30,3 +30,11 @@ try:
 #improved error handling message for non_numeri input 
 except ValueError:
     print("X Error: Please enter valid numericalvalue only!")
+import math
+
+num = float(input("Enter a number: "))
+if num < 0:
+    print("Error: Cannot calculate square root of negative number")
+else:
+    result = math.sqrt(num)
+    print("Square root of", num, "is", result)
