@@ -17,7 +17,7 @@ try:
         print("Result =", first * second)
     elif op == "/":
         if second == 0:
-            print("Error: Cannot divide by zero")
+            print("Error: Cannot perform modulus with zero (division by zero).")
         else:
             print("Result =", first / second)
     elif op == "**"
