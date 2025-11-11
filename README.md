@@ -20,11 +20,12 @@ try:
             print("Error: Cannot perform modulus with zero (division by zero).")
         else:
             print("Result =", first / second)
-    elif op == "**"
+    elif op == "**":
         print("result =", first ** second)
-    #improve modulus zero check with an explanation.  
+    #improve modulus zero check with an explanation.
+    elif op == "%"
         if second == 0:
-            print("Error: Cannot divide by zero (modulus)")
+            print("Error: Cannot perform modulus with zero (modulus by zero).")
         else:
             print("Result =", first % second)
     else:
