@@ -1,4 +1,4 @@
-# Enhanced simple calculator with modulus
+# Enhanced simple calculator with modulus and basic operation 
  
 print("Welcome to the Mulungushi  University Simple Calculator!")
 print("operaters")
