@@ -31,7 +31,7 @@ try:
         print("Error: Unknown operator")
 #improved error handling message for non_numeri input 
 except ValueError:
-    print("X Error: Please enter valid numericalvalue only!")
+    print("X Error: Please enter valid numerical values only!")
 import math
 
 num = float(input("Enter a number: "))
