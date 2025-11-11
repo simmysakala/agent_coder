@@ -41,3 +41,4 @@ if num < 0:
 else:
     result = math.sqrt(num)
     print("Square root of", num, "is", result)
+print (style.BRIGHT + fore.GREEN + f"{user_imput}={result})
