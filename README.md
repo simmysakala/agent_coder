@@ -2,7 +2,7 @@
  
 print("Welcome to the Mulungushi  University Simple Calculator!")
 print("operaters")
-print("You can use +, -, *, /, %")
+print("You can use +, -, *, /, %, **, //")
 
 try:
     first = float(input("Enter the first number: "))
