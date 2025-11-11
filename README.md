@@ -3,7 +3,7 @@
 print("Welcome to the Mulungushi University Simple python Calculator!")
 print("operaters")
 print("You can use +, -, *, /, %, **, //")
-
+print("Now you can type full expressions like 2+3*4 or (10-3)/2)
 try:
     first = float(input("Enter the first number: "))
     op = input("Enter an operator (+, -, *, /, %): ")
